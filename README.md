@@ -6,5 +6,5 @@ In recent years, the medical imaging community has increasingly embraced machine
 
 References:
 
-Code for the genarative is based on (MONAI framework)[https://github.com/Project-MONAI/MONAI] 
-Dataset used is (MEDNIST)[https://medmnist.com/]
+Code for the generative is based on [MONAI framework](https://github.com/Project-MONAI/MONAI) 
+Dataset used is [MEDNIST](https://medmnist.com/)
